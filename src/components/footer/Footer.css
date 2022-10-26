@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+
+.footer-div {
+  width: 80vw;
+  min-width: 400px;
+  background-color: White;
+  height: 50px;
+  font-size: 2rem;
+  color: #9fc9f3;
+  border: 0.5px solid #9fc9f3;
+  border-radius: 5px;
+  margin: 50px 0px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+.brand {
+  color: grey;
+  font-weight: bold;
+  font-style: italic;
+  margin-right: 1.5rem;
+  font-family: 'Dosis', sans-serif;
+
+}
