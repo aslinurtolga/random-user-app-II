@@ -6,7 +6,7 @@
 
 ## Visulation of the Website
 
-![image](./random-user-app.jpg)
+![image](./user2.jpg)
 
 ## Project Skeleton
 
